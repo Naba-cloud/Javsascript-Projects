@@ -1,0 +1,35 @@
+h1
+{
+    text-align: center;
+    width:100%;
+    color:white;
+    font-size:60px;
+    
+
+}
+body{
+    background-color:skyblue;
+}
+#btn-1
+{
+    text-align: center;
+    width:100%;
+    font-size:40px;
+    background-color: slateblue;
+    color:white;
+    border:none;
+}
+#btn-2
+{
+    text-align: center;
+    width:100%;
+    font-size:40px;
+    background-color: slateblue;
+    color:white;
+    border:none;
+}
+#cs{
+    text-align: center;
+    width:100%;
+    font-size:80px;
+}
