@@ -1,0 +1,31 @@
+.bordr
+{
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+    margin-top:8%;
+}
+body{
+    background-color: steelblue;
+}
+#btn
+{
+    width:20%;
+    background-color: royalblue;
+    color: white;
+    border:none;
+    font-size:2em;
+}
+#btn-1
+{
+    width:20%;
+    background-color: royalblue;
+    color: white;
+    border:none;
+    font-size:2em;
+}
+#msg
+{
+    width: 60%;
+    font-size: 1em;
+}

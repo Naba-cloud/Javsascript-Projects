@@ -1,0 +1,46 @@
+h1
+{
+    text-align: center;
+    color:white;
+    font-size:2em;
+    margin-top:7%;
+}
+body
+{
+    background-color: black;
+}
+.bord
+{
+   border:3px solid rgb(219, 224, 219);
+   text-align: center; 
+   margin-top:5%;
+height:700px;   
+   background-color: blue;
+}
+h3{
+    color: white;
+   
+}
+#output
+{
+    color:white;
+    font-size: 30px;
+}
+h2
+{
+    color:white;
+    font-size:30px;
+}
+button{
+    background-color: black;
+    color:white;
+    width:70%;
+    height:30px;
+    font-size:1.5em;
+}
+input{
+    width:80%;
+    height:30px;
+    text-align: center;
+    font-size:30px;
+}
